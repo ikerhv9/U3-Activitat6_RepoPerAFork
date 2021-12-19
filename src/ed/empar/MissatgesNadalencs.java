@@ -111,7 +111,12 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC3() {
-
+		System.out.println("====================================");
+		System.out.println("Hola, sóc Iker Horcajo");
+		System.out.println(" BON NADAL, Salut i Pau per a tots.");
+		System.out.println(" FELIÇ ANY NOU !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
 	}
 
 	private static void AlumneFila1PC4() {
